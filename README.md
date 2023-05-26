@@ -1,1 +1,1 @@
-# Homework_ToDoApp_with_JS_until_26th_May 
+# Homework ToDoApp with JS until 26th May 
